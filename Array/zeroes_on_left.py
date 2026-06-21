@@ -7,3 +7,12 @@ while(i<len(arr)):
     i+=1
 
 print(arr)
+
+"""
+class Solution:
+    def moveZeros(self, arr):
+        ones = [x for x in arr if x != 0]
+        zeros = [0] * (len(arr) - len(ones))
+        return ones + zeros
+
+"""
