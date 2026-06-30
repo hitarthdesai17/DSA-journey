@@ -133,8 +133,8 @@ Full pattern-by-pattern breakdown (recognition cues, templates, common mistakes)
 ## 🔗 Connect
 
 - GitHub: [@hitarthdesai17](https://github.com/hitarthdesai17)
-- LinkedIn: *(add your link)*
-- LeetCode: *(add your profile)*
+- LinkedIn: [*@Hitarth Desai*]linkedin.com/in/hitarth-desai1706
+- LeetCode: [*@Hitarth1706*](https://leetcode.com/u/Hitarth1706/)
 
 ---
 
